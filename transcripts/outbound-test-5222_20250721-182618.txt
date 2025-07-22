@@ -1,0 +1,56 @@
+ASSISTANT: Hello, I am Supriya from Workmates Core2Cloud. How can I help you today?
+USER: Hi Supriya,  mujhe ek AWS ka
+USER: Even riven work use karna hai work mix ke saath.
+ASSISTANT: Gotcha... Aapko AWS ke Event-Driven architecture ko Workmates Core2Cloud ke saath integrate karna hai, right? Ye architecture AWS services jaise ki Amazon EventBridge, AWS Lambda, aur Amazon S3 ko use karke real-time events ko process karne mein help karta hai.
+
+Aap mujhe thoda aur bata sakte hain ki aap kis tarah ka workload handle karna chahte hain ya kaunse specific use-case aapke mind mein hain? Isse mujhe aapko behtar solution suggest karne mein madad milegi.
+USER: Mai newspaper company ke lai kaam karti hu.
+USER: in which I am a field photographer. I upload  I click photos in the field.
+USER: aur phir mai usko apni company ko submit karti hu jo ki phir usko further media pipeline mein process karte hain.
+USER: to iske liye main soch rahi thi ki agar koi event driven workload ho jisse mere company ka cost reduce ho jay.
+ASSISTANT: Bilkul, event-driven architecture aapke use-case ke liye perfect fit ho sakta hai, aur ye cost bhi reduce kar sakta hai.
+
+### Here's how you can set it up:
+
+1. **Photo Upload**: 
+   - Jab aap photos upload karti hain, unhe Amazon S3 bucket mein store kar sakti hain.
+
+2. **Event Trigger**:
+   - Amazon S3 pe photo upload hone par ek event trigger hota hai.
+
+3. **Processing**:
+   - Ye event AWS Lambda function ko trigger karega, jo ki aapke photos ko process kar sakta hai, jaise ki resizing, tagging, etc.
+
+4. **Further Pipeline**:
+   - Processed photos ko aage ke media pipeline mein bhejne ke
+USER: Okay.
+USER: Mujhe mujhe yeh bataiye ki iska andaza mujhe cost kitna aayega agar mein Mumbai region mein isko chalaun.
+ASSISTANT: Sure thing! Let's break down the cost estimation for running an event-driven architecture in the Mumbai region.
+
+### Cost Components:
+
+1. **Amazon S3**:
+   - **Storage**: Approx ₹1.54 per GB per month.
+   - **Requests**: ₹0.28 per 1,000 PUT, COPY, POST, or LIST requests.
+
+2. **AWS Lambda**:
+   - **Compute Time**: ₹0.000014 per request for 1 GB of memory for 100ms.
+   - **Requests**: First 1 million requests per month are free; ₹0.28 per 1 million requests thereafter.
+
+3. **Amazon EventBridge**:
+   - **Events**: ₹0.98 per million events.
+
+### Example Calculation:
+
+- **S3 Storage**: If
+USER: Achcha, achcha, thik hai.
+USER: kya aap mera workmate co to cloud ke saath  can you help me set up an appointment for next Wednesday?
+ASSISTANT: Absolutely! Let's get you set up for an appointment with Workmates Core2Cloud. Can you please provide me with your email address and preferred time for the meeting next Wednesday?
+USER: my number is my email ID is Prakshi Malhotra 77@gmail.com.
+USER: And  my preferred time would be around dupehar ko 1:00 baje.
+ASSISTANT: Great, Prakshi! I'll set up an appointment for you next Wednesday at 1:00 PM. I'll send a confirmation to your
+USER: Okay.
+USER: Okay, thank you.
+ASSISTANT: You're welcome, Prakshi! If you have any more questions or need further assistance, feel free to reach out. Talk to you soon!
+USER: Thanks, bye.
+ASSISTANT: Bye! Have a great

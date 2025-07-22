@@ -1,3 +1,3 @@
-Name: Shovraj Mukherjee
-PainPoints: High AWS Cost Management Complexity; Delayed Project Deliveries; Limited Customization in Managed Services
-Solutions: Implement an AI-driven cost optimization platform; Adopt DevOps automation tools; Develop a flexible, modular service architecture using cloud-native technologies
+Name: Satyam Das
+PainPoints: High cloud costs and budget overruns, complexity in cloud migration, security and compliance concerns.
+Solutions: Cloud Workmates' cost optimization services, seamless cloud migration expertise, managed security services with continuous monitoring and compliance checks.
