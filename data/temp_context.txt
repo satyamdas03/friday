@@ -1,3 +1,3 @@
 Name: Satyam Das
-PainPoints: Complex Cloud Migrations Causing Downtime; Insufficient Customer Support and Slow Response Times; High Costs Without Clear ROI
-Solutions: Implement a comprehensive migration framework utilizing AWS Migration Hub; Adopt a proactive support model using AI-driven chatbots; Introduce cost optimization services using AWS Cost Explorer and Trusted Advisor.
+PainPoints: Delayed response times, high costs, complex migration processes
+Solutions: AI-driven support chatbot, AI-based cost optimization tools, automated migration tools and DevOps practices
