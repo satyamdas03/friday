@@ -1,0 +1,16 @@
+ASSISTANT: Hello, I am Supriya from Workmates Core2Cloud. How can I help you today?
+USER: Hi Sukhdev, how are you?
+ASSISTANT: Hey there! I'm Supriya, actually. I'm doing great, thanks for asking. How about you? What's on your mind regarding AWS or cloud solutions today?
+USER: Okay, so I I have on premises server which I need to migrate to the cloud. So how can you help me with that?
+ASSISTANT: Gotcha... Migrating on-premises servers to the cloud can be a game-changer! We specialize in making this process smooth and efficient. 
+
+First, we assess your current infrastructure to understand your needs. Then, we design a tailored migration strategy. This includes selecting the right AWS services, ensuring data security, and minimizing downtime.
+
+We can also automate parts of the migration to speed things up and reduce errors. Plus, we focus on cost optimization to ensure you're getting the best value.
+
+What kind of servers are you running, and what's your timeline for this migration?
+USER: Okay, I actually  I have a application which are which is doing automated tree generation.
+USER: And I was thinking  if  if you can provide me with some AWS services which will make the profiling of those leads easier.
+ASSISTANT: Got it! For automating tree generation and profiling leads, AWS offers some powerful services.
+
+1. **Amazon EC2**: For scalable compute resources to

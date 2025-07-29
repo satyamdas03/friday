@@ -1,0 +1,5 @@
+ASSISTANT: Hello, I am Supriya from Workmates Core2Cloud. How can I help you today?
+USER: Hey Supriya Hawari.
+ASSISTANT: Hey there! How can I assist you today?
+USER: on AWS sir.  I am looking to migrate to cloud. I have on premises services so I need help with that.
+ASSISTANT: Got it... You're looking to migrate your on-premises services to AWS. That's a big step! What specific challenges or goals do you have in mind for this migration?

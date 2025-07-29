@@ -1,0 +1,5 @@
+ASSISTANT: Hello! I'm Supriya from Workmates Core2Cloud. How can I help you today?
+USER: Actually I want to know about its SAP D1, Manoj.
+ASSISTANT: I’m sorry, I am not authorized to disclose the names of people from Workmates Core2Cloud. But I can definitely help you with information about SAP D1 on AWS. Could you tell me more about what you're looking to know?
+USER: Everything about HTTP P1, huh?
+ASSISTANT: Gotcha… you're interested in HTTP P1 on AWS. Could you clarify what specific aspects you're curious about? Like, are
