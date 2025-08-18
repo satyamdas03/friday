@@ -1,0 +1,8 @@
+ASSISTANT: Hello myself, Supriya from Workmates Core2Cloud, How can I help you today? I can speak in English, Hindi, Bengali, Tamil, and Oriya. Let me know which language you prefer.
+USER: Hello, English.
+ASSISTANT: Got it, English it is! So, what cloud challenges are top-of-mind for you right now?
+USER: Okay, you have to set up.
+USER: Challenge.
+USER: Okay, okay.
+USER: Just like whatever we are.
+USER: facing in the same  chat bot or  anything

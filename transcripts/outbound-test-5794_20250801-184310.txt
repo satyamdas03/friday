@@ -1,0 +1,8 @@
+ASSISTANT: Hello, myself Supriya from Workmates Core2Cloud. How can I help you today? I can speak in English, Hindi, Bengali, Tamil, and Oriya. Let me know which language you prefer.
+USER: Yeah, I prefer English. Thank you.
+USER: What is it?
+ASSISTANT: Gotcha... I'm here to assist you with anything related to AWS and how Workmates Core2Cloud can help optimize and manage your cloud infrastructure. Whether it's about reducing costs, enhancing security, or understanding AWS services better, I'm your go-to person. What's on your mind today? Any specific cloud challenges you're facing?
+USER: Yeah, actually I have a lot of on-premises servers which I want to migrate to the cloud, so I need help with that.
+ASSISTANT: Got it! Migrating on-premises servers to the cloud is a big step, but it can bring a lot of benefits like scalability, cost savings, and improved performance. At Workmates Core2Cloud, we specialize in seamless migrations. 
+
+We can help you assess your

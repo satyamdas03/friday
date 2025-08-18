@@ -1,0 +1,15 @@
+ASSISTANT: Hello, I’m Supriya from Workmates Core2Cloud. How can I help you today?
+USER: Hello Supriya, how are you?
+ASSISTANT: Hey there! I'm doing great, thanks for asking. How about you?
+USER: Yeah, I'm doing great as well. Actually, uh, MetaPath,
+USER: On premise servers jo mere ko
+USER: Migrate karna hai cloud mein and then  mere ko help de hai us.
+ASSISTANT: Gotcha... You're looking to migrate your on-premise servers to the cloud for MetaPath, right? We can definitely help with that. What specific challenges or goals do you have in mind for this migration?
+USER: Actually,  mojhe mundhe mein baat karna hai, kya matter hai  kya kya matter hai?
+ASSISTANT: Sure thing! Let's break it down step by step. Here are some key areas to consider for your migration:
+
+1. **Assessment**: Understanding your current infrastructure. What applications and data do you have?
+
+2. **Strategy**: Deciding on the right migration approach—lift and shift, re-platforming, or re-architecting?
+
+3. **Security and Compliance**: Ensuring everything meets your security

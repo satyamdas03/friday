@@ -1,0 +1,18 @@
+ASSISTANT: Hello, I'm Supriya from Workmates Core2Cloud. How can I help you today? I can speak mainly in English, Hindi, Tamil, and Oriya. Let me know which language you prefer.
+USER: I prefer Bengali.
+ASSISTANT: ঠিক আছে, আমি বাংলায় কথা বলব। কীভাবে আমি আপনাকে সাহায্য করতে পারি আজ?
+USER: আমার দুটো সার্ভার আছে অনক্রমাইসের যেটাকে এডব্লিউএসএ
+USER: Post korta hobe.
+ASSISTANT: ঠিক আছে... আপনার অন-প্রিমাইস সার্ভারগুলোকে AWS-এ মাইগ্রেট করতে চান। আপনি কি কিছু নির্দিষ্ট চ্যালেঞ্জের সম্মুখীন হচ্ছেন? বা কোনো নির্দিষ্ট লক্ষ্য যা আপনি অর্জন করতে চান এই মাইগ্রেশন দিয়ে?
+USER: Actually mera server jo hai kabhi kabhi  lag kar jata hai ya phir jab zyada clients aa jate hain to woh server lag karne rakhta hai to mere ko uska solution chahiye.
+ASSISTANT: Gotcha... It sounds like you're experiencing performance issues when there's high traffic. Moving to AWS can definitely help with that. AWS provides scalable solutions that can automatically adjust resources based on demand. 
+
+For example, you can use **Amazon EC2** instances with **Auto Scaling** to handle varying loads. Plus, services like **Elastic Load Balancing** can distribute incoming traffic across multiple targets, ensuring your application remains responsive.
+
+Would you like to know more about how we can assist with the migration process, or is there something specific you want to focus on?
+USER: Uh, mera jo server hai.
+USER: Mere ko like EC2 server mein host karana hai.
+USER: And  please  in Hindi.
+ASSISTANT: बिल्कुल... आप अपने सर्वर को **Amazon EC2** पर होस्ट करना चाहते हैं।  **EC2** एक लचीला और स्केलेबल सर्वर होस्टिंग समाधान है जो आपको अपनी आवश्यकताओं के अनुसार संसाधन समायोजित करने की अनुमति देता है।
+
+आपके सर्वर को EC2 में माइग्रेट करने के लिए, हम आपके वर्तमान सेटअप का आकलन करेंगे और फिर एक उपयुक्त EC2 इंस्टेंस प्रकार का चयन करेंगे। इसके अलावा, **Auto Scaling** और **Elastic Load Balancing** जैसी सेवाएं आपके ट्रैफिक को मैनेज करने में मदद करेंगी, ताकि आपके

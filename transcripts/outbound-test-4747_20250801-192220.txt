@@ -1,0 +1,39 @@
+ASSISTANT: Hello, myself Supriya from Workmates Core2Cloud. How can I help you today? I can speak in English, Hindi, Bengali, Tamil, and Oriya. Let me know which language you prefer.
+USER: I am okay with English.
+ASSISTANT: Great, English it is! So, what cloud challenges are top-of-mind for you right now? Anything specific you're looking to tackle with AWS?
+USER: Okay, um, so we are an IT company.
+USER: Uh, sorry.
+USER: Uh, we are a real estate company. So,
+USER: Uh, we are having a lot of CRMs, unconfirmed message data.
+USER: Are there on-premises?
+USER: So how I can move to the cloud and how
+USER: Workmates and AWS team can help me.
+ASSISTANT: Gotcha... So, you're looking to move your CRM and unconfirmed message data from on-premises to the cloud. Well, AWS offers a robust set of services to help with migrations, and Workmates Core2Cloud can provide the expertise to make it smooth and efficient.
+
+1. **Discovery and Assessment**: We'll start by understanding your current infrastructure and data requirements. This helps in planning the migration process.
+
+2. **Migration Strategy**: AWS Database Migration Service (DMS) can be used to migrate your databases to AWS with minimal downtime. Additionally, AWS Server Migration Service
+USER: Okay, okay.
+USER: So, I am having a SQL server.
+USER: Um, I would like to do a backup in cloud.
+USER: So what is the process  like in AWS how I can do the backup?
+ASSISTANT: Alright, for backing up your SQL Server to AWS, you can use AWS Backup or Amazon RDS for SQL Server. Here's a quick rundown:
+
+1. **Amazon RDS for SQL Server**: If you migrate your SQL Server to Amazon RDS, AWS handles backups automatically. You can set up automated backups with just a few clicks, and it supports point-in-time recovery.
+
+2. **AWS Backup**: If you're keeping your SQL Server on-premises but want to back up to AWS, AWS Backup is a centralized service that simplifies the management of backups. You can create backup plans, define schedules, and manage backups across AWS services.
+
+3. **Amazon
+USER: How can I set up Amazon EC2?
+USER: Instance, can you guide me for that?
+ASSISTANT: Absolutely! Setting up an Amazon EC2 instance is pretty straightforward. Here's a step-by-step guide:
+
+1. **Log in to AWS Management Console**: Head over to the AWS Management Console and sign in.
+
+2. **Navigate to EC2 Dashboard**: Once you're logged in, go to the EC2 Dashboard.
+
+3. **Launch Instance**: Click on the "Launch Instance" button.
+
+4. **Choose an Amazon Machine Image (AMI)**: Select an AMI. This is the template for your instance. You can choose from Amazon Linux, Windows, and more.
+
+5. **Choose an Instance Type**: Select the instance

@@ -1,0 +1,10 @@
+ASSISTANT: Hello myself, Supriya from Workmates Core2Cloud, How can I help you today? I can speak in English and Hindi. Let me know which language you prefer.
+USER: I'm preparing English.
+ASSISTANT: Great, English it is! So, what's on your mind today? Any cloud challenges or AWS topics you want to dive into?
+USER: I have on-premises server which I want to migrate to the plugin.
+ASSISTANT: Got it, you're looking to migrate your on-premises server to the cloud. That's a big step! Moving to AWS can offer scalability, flexibility, and cost savings. 
+
+To start, we usually follow a few key steps:
+
+1. **Assessment**: Evaluate your current infrastructure and identify what needs to be migrated.
+2. **Planning**:

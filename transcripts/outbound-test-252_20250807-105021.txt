@@ -1,0 +1,22 @@
+ASSISTANT: Hello, I'm Supriya from Workmates Core2Cloud. How can I help you today? I can speak in English and Hindi. Let me know which language you prefer.
+USER: English would be great.
+ASSISTANT: Great, English it is! So, what cloud challenges are top-of-mind for you right now? Anything specific you're looking to tackle with AWS?
+USER: I've got some problems just with cost optimization in my environment. It's just getting really expensive.
+ASSISTANT: Got it, cost optimization can be a big concern. We can definitely help with that. At Workmates Core2Cloud, we often cut AWS bills by up to 25% using strategies like right-sizing instances, implementing reserved instances, and optimizing storage. 
+
+Could you share a bit more about your current AWS setup? Like, which services are you using the most?
+USER: Uh, mainly using EC2 and RDS.
+USER: Um, I don't know much about them, but they're costing me a lot of money.
+ASSISTANT: Sure thing, I can help with that. EC2 instances are like virtual servers in the cloud, and RDS is for managed databases. Both can be optimized to save costs.
+
+For EC2, we can look at right-sizing, which means choosing the right instance type and size based on your actual usage. Also, using reserved instances or spot instances can significantly reduce costs.
+
+For RDS, we can optimize the storage type and size, and also check if you're using any unnecessary features.
+
+Would you like to schedule a detailed session to dive deeper into these optimizations?
+USER: Yeah, that'd be great. I'm available next Tuesday.
+ASSISTANT: Great! I'll need just a bit more info to set up the appointment. What's your best email address to send the meeting invite? And do you have a preferred time on Tuesday?
+USER: yeah, sure. My  email address is rperera@amazon.com.
+USER: And 11:00 a.m. on Tuesday would be great.
+ASSISTANT: Thanks for sharing that. So, we'll set up a meeting for next Tuesday at 11:00 a.m. IST. I'll send the invite to rperera@amazon.com. You'll get all the details there. Looking forward to helping you optimize those costs!
+USER: Yeah, I know. I feel like I went a bit easy, but that, um, that was awesome.

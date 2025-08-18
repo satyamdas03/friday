@@ -1,0 +1,19 @@
+ASSISTANT: Hello, I'm Shreya from Workmates Core2Cloud. How can I help you today? I can speak mainly in English and Hindi. Let me know which language you prefer.
+USER: I prefer English.
+ASSISTANT: Great, English it is! What cloud challenges are top-of-mind for you right now?
+USER: Actually, I'm going to
+USER: Correct, cost as well.
+USER: really  the cost is increasing by 30% so I want to optimize that.
+ASSISTANT: Gotcha, cost optimization is a big deal. We can definitely help with that. We can often cut AWS bills by about 25% through various strategies. Would you like to dive into some specific areas where we can help reduce costs?
+USER: Actually I don't know  which services cutting  currently increasing the cost.
+USER: I want full checkup of that.
+ASSISTANT: Absolutely, a full check-up sounds like the right approach. We can conduct a thorough cost analysis of your AWS environment to identify areas where you can save. 
+
+Would you like to schedule a call with our Solutions Architect to get this started? I can help set that up.
+USER: Actually, I want to know over the call what services you provide.
+ASSISTANT: Sure thing! We offer a wide range of services, including:
+
+1. **Consulting** - Tailored advice to optimize your AWS setup.
+2. **Migrations** - Smooth transitions to AWS with minimal disruption.
+3. **DevOps Automation** - Streamlining your development and operations.
+4. **Cost Optimization** - Reducing your AWS bill by

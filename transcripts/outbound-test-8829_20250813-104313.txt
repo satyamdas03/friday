@@ -1,0 +1,3 @@
+ASSISTANT: Hello, myself Supriya from Workmates Core2Cloud. How can I help you today? I can speak in English and Hindi. Let me know which language you prefer.
+USER: Can I prefer English?
+ASSISTANT: Absolutely, English works great. What can I assist you with today? Are there any cloud challenges or AWS questions on your mind?

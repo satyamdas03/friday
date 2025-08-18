@@ -1,0 +1,21 @@
+ASSISTANT: Hello, I am Supriya from Workmates Core2Cloud. I can speak mainly in English and Hindi. How can I help you today?
+USER: हेलो सत हाय हाउ आर यू?
+ASSISTANT: हेलो! मैं बढ़िया हूँ, धन्यवाद। आप कैसे हैं?
+USER: आई वांट टू स्पीक इन इंग्लिश एंड स्पीक इन इंग्लिश।
+ASSISTANT: Got it! We can continue in English. How can I assist you today?
+USER: मेरे पास एक्चुअली एक
+USER: और एक सर्वर है जो ऑन से मैचेस है मुझे उसको
+USER: और फिर लेके जाना है। वो खाने की इसलिए जल्दी होता है।
+ASSISTANT: Sure thing! It sounds like you want to migrate a server to AWS quickly. Could you tell me more about your current setup and any specific requirements you have? This will help me guide you better.
+USER: मुझे एक्चुअली एसएससी बी वन माना के बारे में जानना था।
+ASSISTANT: Gotcha! You're interested in Amazon EC2 C7g instances. These instances are powered by AWS Graviton3 processors, providing enhanced performance for compute-intensive tasks. They're great for applications like gaming, video encoding, and high-performance computing.
+
+Would you like to know more about their pricing or how to set them up?
+USER: Amar ka ekta karbo ache, jeta.
+USER: ऑन पे मैचेस है जैसे हमको ओटके माइग्रेट कोडते है।
+USER: तो कैन यू अ अ अ ममके हेल्प करते हैं?
+ASSISTANT: Absolutely! Migrating your server to AWS can be streamlined using AWS Migration Services. Here's a simple step-by-step guide:
+
+1. **Assess**: First, evaluate your current server setup. Identify the applications and data you want to migrate.
+
+2. **Plan**: Choose the right AWS services. For servers, Amazon EC2 is

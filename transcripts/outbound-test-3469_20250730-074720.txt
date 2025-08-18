@@ -1,0 +1,48 @@
+ASSISTANT: Hello, I'm Shreya from Workmates Core2Cloud. How can I help you today? I can speak mainly in English and Hindi, so let me know which language you prefer.
+USER: I I think I think I think.
+ASSISTANT: Got it... Take your time. Let me know when you're ready or if there's anything specific you'd like to discuss about AWS or cloud solutions.
+USER: I prefer Bengali.
+ASSISTANT: ঠিক আছে, আমি বাংলায় কথা বলব। আপনি AWS বা ক্লাউড সমাধান সম্পর্কে কী জানতে চান?
+USER: আমার একচুয়ালি অন্ট্রান্স সার্ভিস আছে যেটা আমি ক্লাউডে মাইগ্রেট করতে চাই।
+ASSISTANT: ঠিক আছে... আপনার অন-প্রিমাইস সার্ভিসকে ক্লাউডে মাইগ্রেট করার জন্য বেশ কিছু ধাপ অনুসরণ করতে হবে। 
+
+১. **অ্যাসেসমেন্ট**: প্রথমে আপনার বর্তমান ইনফ্রাস্ট্রাকচার এবং অ্যাপ্লিকেশনগুলোর একটি মূল্যায়ন করুন।
+
+২. **প্ল্যানিং**: কোন অ্যাপ্লিকেশন বা ডেটা কোন ক্লাউড সার্ভিসে যাবে তা ঠিক করুন। 
+
+৩. **মাইগ্রেশন স্ট্র্যাটেজি**: লিফট-অ্যান্ড-শিফট, রিফ্যাক্টরিং, বা রি-আর্কিটেকচারিং স্ট্র্যাটেজি বেছে নিন।
+
+৪. **সিকিউরিটি এবং কমপ্লায়েন্স**: মাইগ্রেশনের সময় এবং পরে সিকিউরিটি এবং কমপ্লায়েন্স নিশ্চিত করুন।
+
+৫. **টেস্টিং**: মাইগ্রেশনের পরে সবকিছু ঠিকঠাক চলছে কিনা তা পরীক্ষা করুন।
+
+আমরা Workmates Core2Cloud-এ এই পুরো প্রক্রিয়ায় আপনাকে সাহায্য করতে পারি। আপনার কি কোনও নির্দিষ্ট প্রশ্ন আছে বা আরও কিছু জানার ইচ্ছা আছে?
+USER: Apni jeta bolnen ikkhuni seta apni Oriyate bolun to?
+ASSISTANT: ঠিক আছে, আমি ওড়িয়াতে বলছি।
+
+ଠିକ୍ ଅଛି... ଆପଣଙ୍କର ଅନ୍-ପ୍ରେମିସ୍ ସର୍ଭିସ୍ କୁ କ୍ଲାଉଡ୍ କୁ ମାଇଗ୍ରେଟ୍ କରିବା ପାଇଁ କିଛି ପଦକ୍ଷେପ ଅନୁସରଣ କରିବା ଦରକାର।
+
+1. **ମୂଲ୍ୟାଙ୍କନ**: ପ୍ରଥମେ ଆପଣଙ୍କର ବର୍ତ୍ତମାନ ଇନ୍ଫ୍ରାସ୍ଟ୍ରକ୍ଚର୍ ଏବଂ ଆପ୍ଲିକେସନ୍ ଗୁଡ଼ିକର ଏକ ମୂଲ୍ୟାଙ୍କନ କରନ୍ତୁ।
+
+2. **ପ୍ଲାନିଂ**: କୁଣ୍ ଆପ୍ଲିକେସନ୍ କିମ୍ବା ଡାଟା କୁଣ୍ କ୍ଲାଉଡ୍ ସର୍ଭିସ୍ କୁ ଯିବ ତା ନିର୍ଦ୍ଧାରଣ କରନ୍ତୁ।
+
+3. **ମାଇଗ୍ରେସନ୍ ନୀତି**: ଲିଫ୍ଟ-ଏଣ୍ଡ-ଶିଫ୍ଟ, ରିଫ୍ୟାକ୍ଟରିଂ, କିମ୍ବା ରି-ଆର୍କିଟେକ୍ଚରିଂ ନୀତି ବାଛନ୍ତୁ।
+
+4. **ସୁରକ୍ଷା ଏବଂ ଅନୁସରଣ**: ମାଇଗ୍ରେସନ୍ ସମୟରେ ଏବଂ ପରେ ସୁରକ୍ଷା ଏବଂ ଅନୁସରଣ ନିଶ୍ଚିତ
+USER: actually I want to know  any AWS services which can help me to the profiling of the leads.
+ASSISTANT: Gotcha... For profiling leads, you can use AWS services like **Amazon Personalize** and **Amazon SageMaker**. 
+
+1. **Amazon Personalize**: It helps create personalized recommendations and user experiences. You can use it to analyze customer data and provide tailored content.
+
+2. **Amazon SageMaker**: This is a powerful machine learning service where you can build, train, and deploy machine learning models. It can help in analyzing lead data and creating predictive models to profile leads effectively.
+
+These services can be integrated into your existing
+USER: Okay, you give me, you give me one
+USER: Uh, aap mujhe ek baat kahiye.
+USER: ki mere paas jo bhi servers hai Africa mein aur mere paas jo bhi servers hai India mein toh
+USER: So unko mein connect kaise karu?
+ASSISTANT: Bilkul... Aapke Africa aur India mein jo servers hain, unko connect karne ke liye aap **AWS Direct Connect** ya **VPN** ka use kar sakte hain.
+
+1. **AWS Direct Connect**: Ye ek dedicated network connection provide karta hai jo aapke on-premises network ko AWS ke saath securely connect karta hai. Ye high bandwidth aur low latency ke saath kaam karta hai.
+
+2. **VPN (Virtual Private Network)**: Aap apne on-premises

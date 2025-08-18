@@ -1,3 +1,3 @@
-Name: Satyam Das
-PainPoints: Delayed response times, high costs, complex migration processes
-Solutions: AI-driven support chatbot, AI-based cost optimization tools, automated migration tools and DevOps practices
+Name: Vinay Khaitan
+PainPoints: Delayed deliveries, order accuracy issues, poor customer support, website/app usability problems, lack of personalized recommendations.
+Solutions: Implement a cloud-based logistics and order tracking system, deploy an AI-powered inventory management system, adopt a cloud-based AI chatbot, leverage cloud scalability for better performance, and integrate AI-driven recommendation engines.

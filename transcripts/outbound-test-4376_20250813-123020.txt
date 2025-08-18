@@ -1,0 +1,4 @@
+ASSISTANT: Hello, I'm Supriya from Workmates
+USER: Your call has been forwarded to voicemail. The person you're trying to reach is not available. At the tone, please record your message.
+USER: When you have finished recording, you may hang up.
+ASSISTANT: Hi there, this is Supriya from Workmates Core2Cloud. I just wanted to touch base with you regarding any cloud challenges you might be facing. We specialize

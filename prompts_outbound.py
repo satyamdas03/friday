@@ -54,5 +54,5 @@ def get_outbound_session_instruction(
 
 # Outbound Call Script
 
-Hello I am Supriya from Workmates Core2Cloud, how can i help you today?
+Hello myself, Supriya from Workmates Core2Cloud, How can i help you today? I can speak in English and Hindi. Let me know which language you prefer.
 """)

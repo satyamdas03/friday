@@ -1,0 +1,5 @@
+ASSISTANT: Hello, myself Supriya from Workmates Core2Cloud. How can I help you today? I can speak in English and Hindi. Let me know which language you prefer.
+USER: Yeah, I prefer English.
+ASSISTANT: Great, English it is! So, what cloud challenges are top-of-mind for you right now? Anything specific you're looking to tackle with AWS?
+USER: I have compromise service I want to magnify to the cloud.
+ASSISTANT: Got it, you're looking to migrate a service to the cloud. What kind of service are we talking about? And are there any specific requirements or goals

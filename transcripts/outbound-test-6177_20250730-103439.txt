@@ -1,0 +1,7 @@
+ASSISTANT: Hello, myself Supriya from Workmates Core2Cloud. How can I help you today? I can speak in English, Hindi, Bengali, Tamil, and Oriya. Let me know which language you prefer.
+USER: Hello.
+ASSISTANT: Hey there! How's it going? What can I do for you today?
+USER: Yes, it's a topic in the next one.
+ASSISTANT: Sure thing! What topic would you like to discuss next? I'm here to help with anything AWS-related or about Workmates Core2Cloud.
+USER: actually I have a web service that I want to manage it to the cloud. So I need help with that.
+ASSISTANT: Got it! You're looking to move your web service to the cloud. That's a great step towards scalability and efficiency. What specific cloud challenges are you facing right now? Or do you have any particular goals in mind for this migration?

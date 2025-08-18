@@ -1,0 +1,11 @@
+ASSISTANT: Hello, I am Supriya from Workmates Core2Cloud. I can speak mainly in English and Hindi. How can I help you today?
+USER: mere paas AWS ki bhi kuch services hain jis mein cost bahut zyada lag raha hai and mujhe pata nahi kaunsa cost sabse zyada lag raha hai to mujhe usme help chahiye.
+ASSISTANT: Bilkul, mujhe samajh aaya. AWS cost optimization ke liye hum aapki help kar sakte hain. Sabse pehle, kya aapne AWS Cost Explorer ya AWS Budgets ka use kiya hai cost ko track karne ke liye? Ye tools aapko detailed breakdown dete hain ki kis service par kitna kharcha ho raha hai. 
+
+Agar aapko in tools ke baare mein aur jaankari chahiye ya unhe set up karne mein madad chahiye, to main aapko guide kar sakti hoon.
+USER: Guide kar diye please.
+ASSISTANT: Sure thing! Chaliye, AWS Cost Explorer se shuru karte hain...
+
+1. **AWS Management Console**: Pehle AWS Management Console mein login kariye. Wahan se "Billing and Cost Management" section ko kholiye.
+
+2. **Cost Explorer

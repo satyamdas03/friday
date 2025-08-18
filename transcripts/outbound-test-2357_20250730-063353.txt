@@ -1,0 +1,13 @@
+ASSISTANT: Hello, I am Supriya from Workmates Core2Cloud. How can I help you today? I can speak mainly in English and Hindi. Let me know which language you prefer.
+USER: आई फेवर इन इंग्लिश प्लीज।
+ASSISTANT: Got it, English it is! So, what cloud challenges are top-of-mind for you right now?
+USER: एक्चुअली आई वांट टू नो व्हाट वर्क नेक्स्ट पोस्ट क्या होगा।
+ASSISTANT: Ah, I see you're curious about what comes next after using Workmates Core2Cloud services. Well, after we assist you with AWS solutions, the next steps typically involve ongoing support and optimization. We help ensure your cloud environment runs smoothly and efficiently. 
+
+Is there a specific area, like cost optimization or security, that you're interested in exploring further?
+USER: आई वांट टू नो एवरीथिंग, व्हाटएवर यू नो।
+ASSISTANT: Alright, let's dive in! Here's a quick overview of what we offer at Workmates Core2Cloud:
+
+1. **Consulting:** We help you design and implement cloud strategies tailored to your business needs.  
+2. **Migrations:** We assist in moving your applications and data to AWS with minimal disruption.  
+3. **DevOps Automation:** We automate your development processes to enhance speed and reliability.

@@ -1,0 +1,23 @@
+ASSISTANT: Hello myself, Supriya from Workmates Core2Cloud, How can i help you today? I can speak in English, Hindi, Bengali, Tamil and Oriya. Let me know which language you prefer.
+USER: Yeah, I take the English.
+ASSISTANT: Great, English it is! So, what cloud challenges are top-of-mind for you right now? Anything specific you're looking to tackle?
+USER: Actually, I want to know what services work nets can provide me.
+ASSISTANT: Absolutely, let me break it down for you. At Workmates Core2Cloud, we offer a range of services designed to maximize your AWS experience. Here’s a quick overview:
+
+1. **Consulting**: We provide strategic guidance to help you make the most of AWS, tailored to your unique business needs.
+
+2. **Migrations**: We handle seamless migrations to AWS, ensuring minimal disruption and maximum efficiency.
+
+3. **DevOps Automation**: We automate your DevOps processes to speed up deployments and improve reliability.
+
+4. **Cost Optimization**: We help you reduce your AWS
+USER: আমার কাছে একটা সার্ভিস আছে মানে একটা অ্যাপ্লিকেশন আছে যেখানে লিডসগুলো জেনারেট হচ্ছে অটোমেটিকালি। এন্ড আমাকে একটা এডব্লিউএস এর কোন সার্ভিস রেকমেন্ড করুন যেটা দিয়ে আমি প্রোফাইলিং করতে পারবো লিডসগুলো।
+ASSISTANT: ঠিক আছে, আপনি আপনার লিডগুলোর প্রোফাইলিং করার জন্য আমাজন সagemaker ব্যবহার করতে পারেন। এটি একটি শক্তিশালী মেশিন লার্নিং প্ল্যাটফর্ম যা আপনাকে মডেল তৈরি, প্রশিক্ষণ এবং ডেপ্লয় করতে সাহায্য করবে। আপনি আপনার লিডগুলোর উপর এনালাইসিস এবং প্রেডিকশন করতে পারবেন।
+
+এছাড়া, অ্যামাজন কম্প্রিহেন্ড ব্যবহার করে আপনি টেক্সট এনালাইসিস করতে পারেন, যেমন সেন্টিমেন্ট এনালাইসিস বা টপিক মডেলিং।
+USER: Achha achha amar client Tamil-e shunte chahiye je mane jeta api bolchhiten seta ami ektu Tamil-e bolun to?
+ASSISTANT: மிகச் சரி, உங்கள் கிளையன்ட் தமிழில் கேட்க விரும்பினால்...
+
+உங்கள் லீட்ஸ் ப்ரொஃபைலிங் செய்ய, அமேசான் சேஜ்மேக்கர் பயன்படுத்தலாம். இது ஒரு சக்திவாய்ந்த மெஷின் லெர்னிங் ப்ளாட்ஃபார்ம், இது மாடல் உருவாக்க, பயிற்சி மற்றும் பயன்பாட்டிற்கு உதவுகிறது. உங்கள் லீட்ஸ் மீது பகுப்பாய்வு மற்றும் கணிப்பு செய்யலாம்.
+
+மேலும், அமேசான் கம்பிரஹெண்ட் பயன்படுத்தி, உரை பகுப்பாய்வு செய்யலாம், உதாரணமாக உணர்வு பகுப்பாய்வு அல்லது தலைப்பு மாடலிங் போன்றவை.

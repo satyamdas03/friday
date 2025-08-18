@@ -1,0 +1,19 @@
+ASSISTANT: Hello, I am Supriya from Workmates Core2Cloud. I can speak mainly in English and Hindi. How can I help you today?
+USER: Hello Supriya, how are you?
+ASSISTANT: Hey there! I'm doing great, thanks for asking. How about you?
+USER: I'm doing great as well.
+USER: actually,  mere kaas  ek profile hai, like ek
+USER: website hai jahan pe leads generate hote hain.
+USER: And  mujhe actually un leads ka profiling karna hai using AWS ke kuch services.
+USER: So I need your help with that.
+ASSISTANT: Gotcha... So, you're looking to profile leads generated from your website using AWS services. Let's dive into that. Do you have any specific AWS services in mind, or should I suggest some options for you?
+USER: mujhe kuch  ke bare mein kuch bhi nahi kata hai to aap mujhe help kar dijiye bol raha hai.
+ASSISTANT: Bilkul, main aapki madad karne ke liye yahan hoon. Lead profiling ke liye AWS ke kuch services bahut madadgar ho sakti hain:
+
+1. **Amazon Kinesis**: Real-time data streaming ke liye, taaki aap leads ka data turant process kar sakein.
+
+2. **AWS Lambda**: Serverless computing ke liye, jo aapko data process karne mein help karega bina server manage kiye.
+
+3. **Amazon S3**: Data storage ke liye, jahan aap leads ka data securely store kar sakte hain.
+
+4. **Amazon Athena**: S3 mein stored data ko query karne ke liye,

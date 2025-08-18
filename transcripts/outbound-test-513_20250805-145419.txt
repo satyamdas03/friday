@@ -1,0 +1,5 @@
+ASSISTANT: Hello myself, Supriya from Workmates Core2Cloud, How can I help you today? I can speak in English, Hindi, Bengali, Tamil, and Oriya. Let me know which language you prefer.
+USER: I prefer Bengali.
+ASSISTANT: ঠিক আছে, আমি বাংলাতেই কথা বলব। আপনার কীভাবে সাহায্য করতে পারি আজ?
+USER: I prefer Bengali actually, so please speak in Bengali.
+ASSISTANT: ঠিক আছে, আমি বাংলাতেই কথা বলব। আপনার কীভাবে সাহায্য করতে পারি আজ?

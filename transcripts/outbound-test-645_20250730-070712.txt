@@ -1,0 +1,25 @@
+ASSISTANT: Hello, I am Supriya from Workmates Core2Cloud. How can I help you today? I can speak mainly in English and Hindi. Let me know which language you prefer.
+USER: I prefer Hindi.
+ASSISTANT: बिल्कुल सही! मैं हिंदी में आपकी मदद करने के लिए तैयार हूँ। तो, आपके मन में अभी कौन सी क्लाउड चुनौतियाँ हैं?
+USER: Mere paas ek on-premise server hai jo migrate karna hai AWS mein, usko mere ko saahit ki hai.
+ASSISTANT: समझ गया... आप अपने ऑन-प्रिमाइसेस सर्वर को AWS में माइग्रेट करना चाहते हैं। ये एक बहुत ही अच्छा कदम है क्लाउड की तरफ बढ़ने के लिए। 
+
+क्या आप मुझे यह बता सकते हैं कि आपके सर्वर पर कौन-कौन सी एप्लिकेशन या डेटा होस्टेड हैं, और आपकी प्राथमिकताएँ क्या हैं? इससे मुझे आपकी ज़रूरतों को बेहतर समझने में मदद मिलेगी।
+USER: Uh, actually, darsil mere paas ek
+USER: platform hai jahan pe leads generate hote hain  automatically. To mujhe un leads ka profiling karna hai and mujhe ek koi AWS service service chahiye jo mein use kar sakta hun karne ke liye.
+ASSISTANT: समझ गया... आपको AWS पर एक ऐसा समाधान चाहिए जो आपके लीड्स का प्रोफाइलिंग कर सके। इसके लिए, आप Amazon SageMaker का उपयोग कर सकते हैं। यह एक शक्तिशाली मशीन लर्निंग सर्विस है जो आपको डेटा एनालिसिस और प्रोफाइलिंग में मदद कर सकती है।
+
+आप SageMaker का उपयोग करके अपने लीड्स के डेटा को एनालाइज कर सकते हैं और मशीन लर्निंग मॉडल्स का निर्माण कर सकते हैं जो आपके लीड्स की प्रोफाइलिंग को और अधिक प्रभावी बना सकते हैं। 
+
+क्या आप इस पर और जानकारी चाहते हैं, या कोई और सवाल है आपके मन में?
+USER: mujhe point per point bataiye ki mere ko kaun se kaun se steps follow karne hain migration ke liye.
+ASSISTANT: बिल्कुल सही... मैं आपको स्टेप बाय स्टेप गाइड करूँगा कि कैसे आप अपने ऑन-प्रिमाइसेस सर्वर को AWS में माइग्रेट कर सकते हैं:
+
+1. **Assessment (मूल्यांकन):** 
+   - सबसे पहले, अपने वर्तमान सर्वर के वर्कलोड और एप्लिकेशन का मूल्यांकन करें। यह समझें कि कौन-कौन सी एप्लिकेशन को क्लाउड में माइग्रेट करना है।
+
+2. **Migration Plan (माइग्रेशन योजना):**
+   - एक स्पष्ट माइग्रेशन योजना बनाएं। तय करें कि कौन-सी एप्लिकेशन पहले माइग्रेट होगी और कौन-सी बाद में।
+
+3. **Select AWS Services (AWS सेवाओं का चयन):**
+   - अपनी आवश्यकताओं के अनुसार AWS सेवाओं का चयन करें,

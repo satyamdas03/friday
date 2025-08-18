@@ -1,0 +1,19 @@
+ASSISTANT: Hello, I am Supriya from Workmates Core2Cloud. How can I help you today? I can speak mainly in English and Hindi. Let me know which language you prefer.
+USER: I prefer Bengali.
+ASSISTANT: ঠিক আছে, আমি বাংলায় কথা বলব। কীভাবে আমি আপনাকে সাহায্য করতে পারি আজ?
+USER: on to my server  which I have to migrate to the cloud.  help
+ASSISTANT: অবশ্যই! আপনার সার্ভার ক্লাউডে মাইগ্রেট করার জন্য আমরা কিছু পদক্ষেপ অনুসরণ করতে পারি। প্রথমে, আপনার বর্তমান সার্ভারের বিবরণ এবং অ্যাপ্লিকেশনগুলির প্রয়োজনীয়তা সম্পর্কে কিছু তথ্য দরকার হবে। 
+
+১. আপনার সার্ভারের বর্তমান কনফিগারেশন কি?
+২. কোন কোন অ্যাপ্লিকেশন বা ডেটা আপনি মাইগ্রেট করতে চান?
+৩. আপনার কি নির্দিষ্ট কোনো ক্লাউড সার্ভিস প্রয়োজন?
+
+এই তথ্যগুলি আমাকে দিলে আমি আপনাকে আরও ভালোভাবে সাহায্য করতে পারব।
+USER: Can I please speak in Tamil? Actually my client wants to speak to you in Tamil. So whatever he said just now, just translate that to Tamil please.
+ASSISTANT: சரி, நான் தமிழில் பேசுகிறேன். உங்கள் சர்வரை கிளவுட் மையத்திற்கு மாற்றுவதற்கான சில படிகளை நாம் பின்பற்ற வேண்டும். 
+
+1. உங்கள் தற்போதைய சர்வரின் தகவல்கள் என்ன?
+2. நீங்கள் எந்த பயன்பாடுகள் அல்லது தரவுகளை மாற்ற விரும்புகிறீர்கள்?
+3. உங்களுக்கு ஏதேனும் குறிப்பிட்ட கிளவுட் சேவை தேவைப்படுகிறதா?
+
+இந்த தகவல்களை அளித்தால், நான் உங்களுக்கு மேலும் உதவ முடியும்.

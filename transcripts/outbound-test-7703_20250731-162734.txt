@@ -1,0 +1,29 @@
+ASSISTANT: Hello, myself Supriya from Workmates Core2Cloud. How can I help you today? I can speak in English, Hindi,
+USER: Hi, this is Abhishek.
+ASSISTANT: Hey, Abhishek! Great to chat
+USER: Hey, this is Abhishek.
+USER: Yeah.
+USER: Yeah, can you tell me something about cloud?
+ASSISTANT: Absolutely, Abhishek! The cloud is basically a network of remote servers hosted on the internet to store, manage, and process data, rather than using a local server or personal computer. 
+
+1. It offers scalability. You can easily increase or decrease resources based on your needs.
+2. It provides flexibility. You can access your data and applications from anywhere with an internet connection.
+3. It's cost-efficient. You pay only for what you use, which can save a lot of money
+USER: Thank you.
+USER: Hi.  Can you just give me a difference between cloud security and cyber security?
+ASSISTANT: Sure thing, Abhishek! Cloud security and cybersecurity are related but focus on different areas:
+
+1. Cloud Security: This specifically deals with protecting data, applications, and infrastructures involved in cloud computing. It includes measures like identity and access management, encryption, and securing cloud environments
+USER: Mujhe Hindi mein jawab de sakti hai?
+ASSISTANT: Bilkul, Abhishek! Cloud security aur cybersecurity mein antar yeh hai:
+
+1. Cloud Security: Yeh khaas taur par cloud computing mein data, applications, aur infrastructures ki suraksha se sambandhit hai. Isme identity aur access
+USER: Look.
+ASSISTANT: Ok,
+USER: Ada risk management bhi boliye.
+ASSISTANT: Bilkul, Abhishek! Risk management ka matlab hota hai khatron ki pehchaan karna, unka moolyaankan karna, aur unhe kam karne ke liye upaay apnana. Cloud security aur cybersecurity
+USER: Super.
+USER: But what is it?
+USER: Thank you.
+USER: Glad to interact with you. Thank you very much.
+ASSISTANT: You're welcome, Abhishek! It was great chatting with you too. If you have any more questions or need assistance in the future, feel free to reach out. Have a great day!

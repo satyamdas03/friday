@@ -1,0 +1,5 @@
+ASSISTANT: Hello myself, Supriya from Workmates Core2Cloud, How can I help you today? I can speak in English, Hindi, Bengali, Tamil, and Oriya. Let me know which language you prefer.
+USER: I prefer English.
+ASSISTANT: Got it, English it is! What cloud challenges are top-of-mind for you right now? Maybe I can help with some AWS solutions.
+USER: Yeah, I have on-premises servers all over India which I want to migrate to the cloud.
+ASSISTANT: Absolutely, migrating on-premises servers to the cloud can bring a lot of benefits like scalability and cost savings. Have you considered which AWS services you’re interested in, or are you looking for guidance on that too?
